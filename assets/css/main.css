@@ -2024,7 +2024,8 @@
 			}
 
 		#banner p {
-			margin: 0;
+			margin: 0 auto;
+			max-width: 650px;
 		}
 
 		#banner footer {

@@ -1955,6 +1955,7 @@
 				letter-spacing: 3px;
 				padding: 0;
 				margin-top: 0.35em;
+				padding-bottom: 20px;
 			}
 
 				#header header p:before {
@@ -1967,7 +1968,7 @@
 		#header footer {
 			position: absolute;
 			bottom: 9em;
-			margin: 0;
+			margin: 0 auto;
 			width: 100%;
 		}
 
